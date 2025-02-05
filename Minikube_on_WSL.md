@@ -17,7 +17,6 @@
 3. Test the Docker configuration
 
    ```shell
-   sudo service docker start
    docker run hello-world
    ```
 
